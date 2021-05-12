@@ -1,0 +1,22 @@
+{
+  "name": "renovate-repro-issue-9977",
+  "version": "0.0.0",
+  "description": "Reproduction repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HonkingGoose/renovate-repro-issue-9977.git"
+  },
+  "author": "HonkingGoose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HonkingGoose/renovate-repro-issue-9977/issues"
+  },
+  "homepage": "https://github.com/HonkingGoose/renovate-repro-issue-9977#readme",
+  "dependencies": {
+    "@docusaurus/preset-classic": "2.0.0-beta.0"
+  }
+}
