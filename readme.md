@@ -4,7 +4,9 @@
 
 Renovate tries to remediate the trim security vulnerability, but fails.
 The Renovate Dashboard keeps showing the trim security vulnerability in the "Open" section.
-There is no open branch for the security update, and there is no error message, or way to dismiss the stuck vulnerability update.
+There is no open branch for the trim security update, and there is no error message, or way to dismiss the stuck vulnerability update.
+
+Renovate does open PRs and branches for other security updates, so the basic mechanism is working.
 
 ### Expected behavior
 
